@@ -14,7 +14,7 @@
     <PackageVersion Include="Akka.Persistence.Hosting" Version="$(AkkaHostingVersion)" />
     <PackageVersion Include="Akka.Cluster.Hosting" Version="$(AkkaHostingVersion)" />
     <!-- Needed to fix Microsoft.Identity.Client typosquatting phishing link bug (https://github.com/AzureAD/microsoft-authentication-library-for-dotnet/pull/5278) -->
-    <PackageVersion Include="Microsoft.Identity.Client" Version="4.73.1" />
+    <PackageVersion Include="Microsoft.Identity.Client" Version="4.79.0" />
     <PackageVersion Include="Testcontainers.Azurite" Version="4.8.0" />
   </ItemGroup>
   <!-- Test dependencies -->
